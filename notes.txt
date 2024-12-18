@@ -1,0 +1,7 @@
+note: to run this on your local pc please change the mongodb connection path on the config.js file.
+
+
+
+new learnings:
+    1. mvc structure > api > controllers + middlewares > services > utility + models = output
+    2. res and req both have their unique useage, cookie and cookies are two different things
